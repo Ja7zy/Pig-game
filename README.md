@@ -1,6 +1,9 @@
 # Pig-game
 Added a few features to the project taught by Jonas 
 
+# Live link
+https://ja7zy.github.io/Pig-game/
+
 # Added features
 - Now players can Enter their names 
 
