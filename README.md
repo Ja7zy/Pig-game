@@ -9,3 +9,6 @@ Added a few features to the project taught by Jonas
 - Rules section to understand the game 
 
 ![image](https://user-images.githubusercontent.com/127747246/224703700-d0ca1c67-99a0-4358-9a4e-15c97750df3b.png)
+
+# Issues 
+- Have to make it responsive for smaller mobile devices
